@@ -1,3 +1,4 @@
+
 const Footer = () => {
   return (
     <footer>
@@ -5,7 +6,6 @@ const Footer = () => {
       <ul>
         <li>👩🏼‍🌾</li>
         <li>👩‍💻</li>
-        <li>🎤</li>
         <li>🧗‍♂️</li>
       </ul>
     </footer>
